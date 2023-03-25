@@ -1,1 +1,1 @@
-# MyAwesomeProject
+# MyAwesomeProject checkin connection
