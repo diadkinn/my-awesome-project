@@ -1,1 +1,0 @@
-# MyAwesomeProject checkin connection
